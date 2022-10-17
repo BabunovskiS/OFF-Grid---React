@@ -1,0 +1,123 @@
+.full-section-1-new {
+    margin-top: -125px;
+    background-image: url("../../assets/page3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 103vh;
+    width: 100%;
+}
+
+.backgroung-section-5-modify{
+    -webkit-clip-path: polygon(0 3%, 0 100%, 100% 97%, 100% 100%, 100% 0);
+    margin-top: -28px;
+    background-image: url("../../assets/white-background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}
+
+#right-section-5-new {
+    float: right;
+    margin-top: 131px;
+    height: auto;
+}
+
+#right-section-5-new {
+    float: right;
+    margin-top: 131px;
+    height: auto;
+}
+
+@media (min-width: 1399.98px) {
+    #right-section-5-new {
+        float: right;
+        margin-top: 131px;
+        height: auto;
+    }
+
+    #right-section-5-new {
+        float: right;
+        margin-top: 131px;
+        height: auto;
+    }
+
+
+    .full-right-section-5-new {
+        height: 100%;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: flex-end;
+        justify-content: flex-end;
+        padding-top: 25px;
+    }
+}
+
+
+/* Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+    #right-section-5-new {
+        float: right;
+        margin-top: 55px;
+        padding-bottom: 100px;
+    }
+
+    .full-right-section-5-new {
+        height: 100%;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-content: flex-end;
+        justify-content: flex-end;
+        padding-top: 25px;
+    }
+}
+
+
+
+@media (max-width: 991.98px) {
+    #right-section-5-new {
+        margin-top: 10px;
+        padding-bottom: 30px;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .full-right-section-5-new {
+        height: 100%;
+        width: 100%;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        padding-top: 15px;
+    }
+
+}
+
+
+
+@media (max-width: 767.98px){
+    #right-section-5-new {
+        margin-top: 10px;
+        padding-bottom: 30px;
+    }
+}
+
+
+
+
+
+@media (max-width: 575.98px){
+    #right-section-5-new {
+        margin-top: 10px;
+        padding-bottom: 30px;
+    }
+}
