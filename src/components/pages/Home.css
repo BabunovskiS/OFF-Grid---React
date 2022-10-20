@@ -275,7 +275,7 @@
 
 /*Section 3*/
 .backgroung-section-3 {
-    margin-top: -60px;
+    margin-top: -100px;
     background-image: url("../../assets/colorize-n1.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -3636,10 +3636,7 @@
         font-size: 20px;
     }
 
-    .backgroung-section-3 {
-        height: auto;
-        margin-top: -75px;
-    }
+
 
     .heading-section-3 {
         font-size: 45px;
