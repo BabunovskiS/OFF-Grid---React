@@ -58,7 +58,7 @@ class Advanced extends Component {
                                         'EITHER WE GET YOU RESULTS OR<br/>
                                         YOU PAY NOTHING'
                                     </p>
-                                    <button className="viewmenu" id="button-sec-3">Let's build your brand together</button>
+                                    <button className="viewmenu" id="button-sec-3">Book a Free Road Map session<br/>(risk free, results guaranteed)</button>
                                 </div>
                             </div>
                         </div>
@@ -385,7 +385,7 @@ class Advanced extends Component {
                                 DO YOU THINH YOUR WEBSITE COULD BE DOING BETTER?<br/>
                                 CHECH WITH OUR FREE WEBSITE PERFORMANCE TEST
                             </div>
-                            <div className="form-section-8">
+                            <div className="form-section-8-modify">
                                 <p className="wb-url">Website URL</p>
                                 <input type="text" name="user_name" placeholder="Enter your website address"
                                        id="wb-add"/>

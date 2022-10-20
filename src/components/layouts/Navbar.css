@@ -14,14 +14,18 @@
 }
 
 
+
+
 .offcanvas-header .btn-close {
     font-size: 20px;
-    height: 35px;
-    width: 35px;
+    height: 30px;
+    width: 30px;
     border-radius: 50%;
     border: 2px solid #FFFFFF;
     background-color: #ffffff !important;
-    margin-left: 10px;
+    position: relative;
+    top: 6px;
+    margin-right: 6px;
 }
 
 
@@ -33,7 +37,7 @@
 .open-nav {
     margin-top: 20px;
     padding-bottom: 30px;
-    font-size: 70px;
+    font-size: 85px;
     font-weight: 500;
     font-style: italic;
 }
@@ -120,7 +124,6 @@
 }
 
 
-
 .navbar-brand:hover {
     color: #CEFA05 !important;
 }
@@ -202,7 +205,11 @@
 
     .open-nav{
         margin-top: 0;
-        font-size: 60px;
+        font-size: 79px;
+    }
+
+    .menu-show-end{
+    margin-top: 30px;
     }
 
     #full-menu-end{
@@ -244,7 +251,7 @@
 
     .open-nav{
         margin-top: 0;
-        font-size: 55px;
+        font-size: 67px;
     }
 
     #full-menu-end{
@@ -388,7 +395,12 @@
         align-items: flex-start;
     }
 
-    #full-dm-end-social {
-        gap: 12px;
+    #full-dm-end-social{
+        display: none;
     }
+
+    #dm-end-privacy{
+        display: none;
+    }
+
 }

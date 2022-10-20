@@ -12,7 +12,7 @@ class Blog extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="col-lg-11" id="section1-col1">
-                                    EBOOK<br/>
+                                    ALL BLOGS<br/>
                                 </div>
                                 <div className="col-lg-1" id="section1-col2">
                                     <span className="facebook-icon"><FaFacebookF/></span>
