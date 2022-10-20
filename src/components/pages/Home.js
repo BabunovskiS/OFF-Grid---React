@@ -10,7 +10,7 @@ import {Accordion} from "react-bootstrap";
 class Home extends Component {
     render() {
         return (
-            <div className="full-header">
+        <div className="full-header">
                 <div className="img-and-text-header">
                     <img
                         src={require('../../assets/colorize-new.png')}
